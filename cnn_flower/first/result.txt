@@ -1,0 +1,4 @@
+Train on 7801 samples, validate on 867 samples
+
+loss: 0.16878841262022068
+accuracy: 0.9460332103321033
